@@ -11,6 +11,6 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 
 #### GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true&theme=dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact&theme=dark" align = "center"/>
 </p>
