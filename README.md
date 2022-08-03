@@ -9,6 +9,7 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+#### GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact" align = "center"/>
