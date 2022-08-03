@@ -8,3 +8,6 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PB020&show_icons=true&theme=dark)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&theme=dark&layout=compact)
