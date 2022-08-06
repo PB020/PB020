@@ -7,8 +7,8 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
   <img height="20em" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c">
   <img height="20em" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B">
   <img height="20em" src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java">
-  <img height="25em" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin">
-  <img height="25em" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+  <img height="20em" src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin">
+  <img height="20em" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 </p>
 
 #### GitHub Stats
