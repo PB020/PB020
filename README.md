@@ -11,6 +11,11 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
   <img height="20em" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 </p>
 
+#### Socials
+[LinkedIn](https://www.linkedin.com/in/abenezeryadane/)\
+[Twitter](https://twitter.com/abenezeryadane)\
+[Instagram](https://instagram.com/abenezeryadane)
+
 #### GitHub Stats
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true&theme=dark" align = "left"/>
