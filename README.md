@@ -12,9 +12,11 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 </p>
 
 #### Socials
-[LinkedIn](https://www.linkedin.com/in/abenezeryadane/)\
-[Twitter](https://twitter.com/abenezeryadane)\
-[Instagram](https://instagram.com/abenezeryadane)
+<p align="center">
+  [LinkedIn](https://www.linkedin.com/in/abenezeryadane/)
+  [Twitter](https://twitter.com/abenezeryadane)
+  [Instagram](https://instagram.com/abenezeryadane)
+</p>
 
 #### GitHub Stats
 <p align="center">
