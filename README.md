@@ -12,7 +12,7 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 </p>
 
 #### Socials
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/abenezeryadane/">LinkedIn</a>
   <a href="https://www.twitter.com/abenezeryadane/">Twitter</a>
   <a href="https://www.instagram.com/abenezeryadane/">Instagram</a>
