@@ -13,9 +13,9 @@ My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the
 
 #### Socials
 <p align="center">
-  <a href"https://www.linkedin.com/in/abenezeryadane/">LinkedIn</a>
-  <a href"https://www.twitter.com/abenezeryadane/">Twitter</a>
-  <a href"https://www.instagram.com/abenezeryadane/">Instagram</a>
+  <a href="https://www.linkedin.com/in/abenezeryadane/">LinkedIn</a>
+  <a href="https://www.twitter.com/abenezeryadane/">Twitter</a>
+  <a href="https://www.instagram.com/abenezeryadane/">Instagram</a>
 </p>
 
 #### GitHub Stats
