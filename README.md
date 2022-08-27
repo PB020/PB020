@@ -1,4 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<span style="color: #215FA3">Computer Engineering Student</span>** at the **<span style="color: #215FA3">University of Maryland</span>**.
 
@@ -47,6 +47,10 @@ My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<
 
 #### GitHub Stats
 <p align="center">
+<!--
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true&theme=dark" align="left"></a>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact&theme=dark" align="right"></a>
+  -->
+  
+  <a href="#"><img alt="PB020's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PB020?cardType=level-alternate&theme=dark"></a>
 </p>
