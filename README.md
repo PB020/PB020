@@ -1,6 +1,6 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is **Abenezer Adane**, and I'm a **Computer Engineering Student** at the **University of Maryland**.
+My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<span style="color: #215FA3">Computer Engineering Student</span>** at the **<span style="color: #215FA3">University of Maryland</span>**.
 
 #### Skills and Stats
 <p align="left">
