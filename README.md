@@ -4,31 +4,31 @@ My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<
 
 #### Skills and Stats
 <p align="left">
-  <img height="25em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img height="25em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img height="25em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 </p>
 
 <!--
 <p align="left">
-  <img height="25em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img height="25em" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img height="25em" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img height="25em" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
-</p>
--->
-
-<!--
-<p align="left">
-  <img height="20em" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img height="20em" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  <img height="20em" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img height="25em" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a>
 </p>
 -->
 
 <!--
 <p align="left">
-  <img height="20em" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
+  <a href="#"><img height="20em" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img height="20em" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img height="20em" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+</p>
+-->
+
+<!--
+<p align="left">
+  <a href="#"><img height="20em" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"></a>
 </p>
 -->
 
@@ -47,6 +47,6 @@ My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<
 
 #### GitHub Stats
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true&theme=dark" align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact&theme=dark" align="right">  
+  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=PB020&count_private=true&show_icons=true&theme=dark" align="left"></a>
+  <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PB020&show_icons=true&locale=en&layout=compact&theme=dark" align="right"></a>
 </p>
