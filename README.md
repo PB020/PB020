@@ -1,6 +1,7 @@
 ### Hello <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<span style="color: #215FA3">Computer Engineering Student</span>** at the **<span style="color: #215FA3">University of Maryland</span>**.
+<br>
 I am currently a **<span style="color: #215FA3">Software Engineering Intern <a href="https://github.com/uber">@Uber<a></span>**.
 
 #### Skills and Stats
