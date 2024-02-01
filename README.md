@@ -35,8 +35,8 @@ I am currently a **<span style="color: #215FA3">Software Engineering Intern <a h
 #### Socials and Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/abenezeryadane/"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.twitter.com/abenezeryadane/"><img height="25em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/abenezeryadane/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <!--<a href="https://www.aadane.tech"><img height="25em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>-->
+  <!--<a href="https://www.twitter.com/abenezeryadane/"><img height="25em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>-->
+  <!--<a href="https://www.instagram.com/abenezeryadane/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
+  <!--<a href="https://www.aadane.com"><img height="25em" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>-->
   <a href="mailto:abe05081995@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
