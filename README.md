@@ -4,7 +4,7 @@ My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<
 <br><br>
 I am currently a **<span style="color: #215FA3">Software Engineering Intern <a href="https://github.com/uber">@Uber<a></span>**.
 
-#### Skills and Stats
+#### Skills and Experience
 <p align="left">
   <a href="#"><img height="25em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
   <a href="#"><img height="25em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
